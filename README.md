@@ -21,21 +21,3 @@ O sistema oferece um menu interativo com as seguintes opções:
 * **PostgreSQL** (ou H2 para testes)
 * **API Gutendex** (Dados sobre livros do domínio público)
 * **Jackson** (Para desserialização de JSON)
-
----
-
-## 🙏 Agradecimentos
-
-- [![Oracle](https://img.shields.io/badge/Oracle-Next_Education-red)](https://www.oracle.com/br/education/oracle-next-education)
--  [![Alura](https://img.shields.io/badge/Alura-Digital-blue)](https://www.alura.com.br)
-- [![API Gutendex]()](https://gutendex.com)
-
-* **Instrutores:**
-  
-  - Brena Souza
-  - Eric Monné
-  - Iasmin Araújo
-  - Jacqueline Oliveira
-  - Rodrigo da Silva Ferreira Caneppele
-  
-  
